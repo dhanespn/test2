@@ -1,0 +1,12 @@
+package com.dhanes;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TeststartApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TeststartApplication.class, args);
+	}
+}
