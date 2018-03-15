@@ -1,6 +1,6 @@
 ---
 applications:
-- name: spring-music
+- name: dpn-predix123
   memory: 1G
   random-route: true
-  path: build/libs/spring-music.jar
+  path: target/spring-music.jar
